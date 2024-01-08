@@ -99,9 +99,8 @@ public class Seller {
 
     @Override
     public String toString() {
-        return "Seller:\nid=" + id + "\nname=" + name + "\nemail=" + email +
-                "\nbirthDate=" + birthDate + "\nbaseSalary="
-                + baseSalary + "\n-----\n" + department;
+        return "\nSeller [id=" + id + ", name=" + name + ", email=" + email + ", birthDate=" + birthDate
+                + ", baseSalary=" + baseSalary + ", department=" + department + "]";
     }
 
 }
