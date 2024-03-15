@@ -1,5 +1,5 @@
 
-# Projeto Cordel
+# Projeto Java-DAO-JDBC
 
 Aplicação desenvolvida no curso do Nélio Alves para entender e praticar os conceitos da API do JDBC para conexão da Aplicação Java com o Banco de dados usando o padrão de projeto DAO.
 Essa aplicação é um CRUD simples das entidades Vendedor e Departamento.
